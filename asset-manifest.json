@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/calculator-react/static/css/main.1ecb0a6d.chunk.css",
-    "main.js": "/calculator-react/static/js/main.4d173a5e.chunk.js",
-    "main.js.map": "/calculator-react/static/js/main.4d173a5e.chunk.js.map",
-    "runtime-main.js": "/calculator-react/static/js/runtime-main.dd133c28.js",
-    "runtime-main.js.map": "/calculator-react/static/js/runtime-main.dd133c28.js.map",
-    "static/js/2.6af972b1.chunk.js": "/calculator-react/static/js/2.6af972b1.chunk.js",
-    "static/js/2.6af972b1.chunk.js.map": "/calculator-react/static/js/2.6af972b1.chunk.js.map",
-    "index.html": "/calculator-react/index.html",
-    "static/css/main.1ecb0a6d.chunk.css.map": "/calculator-react/static/css/main.1ecb0a6d.chunk.css.map",
-    "static/js/2.6af972b1.chunk.js.LICENSE.txt": "/calculator-react/static/js/2.6af972b1.chunk.js.LICENSE.txt"
+    "main.css": "/calculator-reactjs/static/css/main.1ecb0a6d.chunk.css",
+    "main.js": "/calculator-reactjs/static/js/main.4d173a5e.chunk.js",
+    "main.js.map": "/calculator-reactjs/static/js/main.4d173a5e.chunk.js.map",
+    "runtime-main.js": "/calculator-reactjs/static/js/runtime-main.cacddd68.js",
+    "runtime-main.js.map": "/calculator-reactjs/static/js/runtime-main.cacddd68.js.map",
+    "static/js/2.6af972b1.chunk.js": "/calculator-reactjs/static/js/2.6af972b1.chunk.js",
+    "static/js/2.6af972b1.chunk.js.map": "/calculator-reactjs/static/js/2.6af972b1.chunk.js.map",
+    "index.html": "/calculator-reactjs/index.html",
+    "static/css/main.1ecb0a6d.chunk.css.map": "/calculator-reactjs/static/css/main.1ecb0a6d.chunk.css.map",
+    "static/js/2.6af972b1.chunk.js.LICENSE.txt": "/calculator-reactjs/static/js/2.6af972b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd133c28.js",
+    "static/js/runtime-main.cacddd68.js",
     "static/js/2.6af972b1.chunk.js",
     "static/css/main.1ecb0a6d.chunk.css",
     "static/js/main.4d173a5e.chunk.js"
